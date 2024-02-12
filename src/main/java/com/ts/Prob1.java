@@ -3,7 +3,7 @@ package com.ts;
 /**
  * <a href="https://leetcode.com/problems/two-sum">Two sum</a>
  */
-public class Main {
+public class Prob1 {
 
   public static void main(String[] args) {
     twoSum(new int[]{2, 7, 11, 15}, 9);
